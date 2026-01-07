@@ -3,7 +3,7 @@
 A modern and responsive landing page for a fictional AI-based food subscription service.
 
 ## 🚀 Live Demo
-https://omnifood-good.netlify.app/#how
+https://omnifood-good.netlify.app/
 
 ## 📌 Project Overview
 Omnifood is a front-end project focused on building a clean, modern, and fully responsive website using HTML, CSS, and JavaScript fundamentals.
